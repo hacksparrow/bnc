@@ -1,0 +1,6 @@
+{
+    "name": "bnc",
+    "version": "0.0.0",
+    "description": "IRC Bouncer in Node.js",
+    "preferGlobal": "true"
+}
